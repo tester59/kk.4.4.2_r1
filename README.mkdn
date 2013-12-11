@@ -1,16 +1,16 @@
-Android for ARMv6 and other Legacy Devices - CyanogenMod 11.0
+Android for Acep and other Legacy Devices - CyanogenMod 11.0
 ===========
 
 Getting Started
 ---------------
 
-To get started with Android for ARMv6/CyanogenMod, you'll need to get
+To get started with Android for acep /CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/developing.html).
 
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/androidarmv6/android.git -b cm-11.0
+    repo init -u git://github.com/tester59/kk.4.4.2_r1.git -b cm-11.0
 
 Then to sync up:
 
@@ -20,7 +20,7 @@ Then to sync up:
 Build your device:
 
     source build/envsetup.sh
-    brunch DEVICENAME (for ex: brunch cooper)
+    brunch DEVICENAME (for ex: brunch tebon)
 
 Flash ZIP:
 
