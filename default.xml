@@ -40,7 +40,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/common" name="tester59/android_device_samsung_msm7x27a-common_2" />
+  <project path="device/trebon" name="tester59/android_device_samsung_msm7x27a-common_2" />
   <project path="device/samsung" name="tester59/android_device_samsung_s7500_1" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" />
@@ -477,7 +477,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="vendor/cm" name="tester59/android_vendor_cm_2" />
-  <project path="vendor/msm7x27a" name="tester59/proprietary_vendor_samsung_msm7x27a_2" />
+  <project path="vendor/trebon" name="tester59/proprietary_vendor_samsung_msm7x27a_2" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
