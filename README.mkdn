@@ -40,8 +40,6 @@ We will be happy to oblige.
 
 Gerrit Setup (yes double review.review, change GERRITUSERNAME with your username)
 
-    git config --global review.review.androidarmv6.org.username GERRITUSERNAME
-
 Uploading Patches
 
     cd WORKING_DIR
