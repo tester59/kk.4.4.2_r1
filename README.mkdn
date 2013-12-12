@@ -33,7 +33,7 @@ Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building ins
 Gerrit Code Review
 ------------------
 
-We have a gerrit instance at http://review.androidarmv6.org.
+We have a gerrit instance at http://review.tester59.org.
 Please don't try to push directly to github.
 Ask an owner for forking stuff for gerrit.
 We will be happy to oblige.
@@ -56,19 +56,4 @@ Uploading Patches
 
 
 
-Contact
--------
-
-For more information on this Github Organization and how it is structured, 
-please go to [http://androidarmv6.github.io/](http://androidarmv6.github.io/)
-
-Join us on #droidarmv6 (temporarily) or usually #androidarmv6 (usually - don't join this channel now) for help and support or just for a chat!
-
-Disclaimer
---------
-
-All of these device are not supported by CyanogenMod since they use the old Qualcomm
-Snapdragon MSM7x27 chip, and hence cut off by the CyanogenMod team. This team (androidarmv6)
-is in no way, shape or form affiliated by the CyanogenMod team and this project is not
-endorsed or supported by the CyanogenMod team.
 
