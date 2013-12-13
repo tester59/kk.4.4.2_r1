@@ -1,6 +1,6 @@
 ?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote name="aosp"
+<remote name="aosp"
            fetch=".." />
   <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
@@ -430,6 +430,6 @@
   <project name="tester59/android_device_samsung_msm7x27a-common_2" path="device/samsung/trebon" remote="github" revision="cm-11.0" />
   <project name="tester59/android_kernel_samsung_msm7x27a_2" path="kernel/samsung/trebon" remote="github" revision="cm-11.0" />
   <project path="vendor/trebon" name="tester59/proprietary_vendor_samsung_msm7x27a_2" />
-  </manifest>
+</manifest>
 
 
